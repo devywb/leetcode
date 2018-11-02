@@ -1,3 +1,10 @@
+# LeetCode Java 题集
+
+## 链接
+* 表格数据来自：[叫我皮卡丘](https://blog.csdn.net/liyuanyue2017/article/details/80239799)
+* 题库：[领扣(LeetCode)](https://leetcode-cn.com/problemset/algorithms/)
+
+## 列表
 | 编号 | 题目 | 题解 |分类
 | -------- | -------- | -------- | -------- |
 | 1 | 两数之和 | java | 数组 |
@@ -74,8 +81,3 @@
 | 830 | 较大分组的位置 | Java | 数组 |
 | 849 | 到最近的人的最大距离 | Java | 数组 |
 | 867 | 转置矩阵 | Java | 数组 |
-
-
-## 链接
-表格数据来自：[叫我皮卡丘](https://blog.csdn.net/liyuanyue2017/article/details/80239799)
-题库：[领扣(LeetCode)](https://leetcode-cn.com/problemset/algorithms/)
