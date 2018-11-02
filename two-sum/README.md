@@ -17,4 +17,4 @@
 
 ## 题目分析
 
-如果 nums[i] + num[j] = target，则返回下标 i 和 j，且 i 不能等于 j。
+如果 nums[i] + nums[j] = target，则返回下标 i 和 j，且 i 不能等于 j。
