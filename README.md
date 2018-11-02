@@ -1,7 +1,7 @@
 # LeetCode Java 题集
 
 ## 链接
-* 表格数据来自：[叫我皮卡丘](https://blog.csdn.net/liyuanyue2017/article/details/80239799)
+* 列表数据来自：[叫我皮卡丘](https://blog.csdn.net/liyuanyue2017/article/details/80239799)
 * 题库：[领扣(LeetCode)](https://leetcode-cn.com/problemset/algorithms/)
 
 ## 列表
