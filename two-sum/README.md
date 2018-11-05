@@ -1,7 +1,5 @@
 # 1. [两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-
-
 ## 题目描述
 
 给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
@@ -17,4 +15,4 @@
 
 ## 题目分析
 
-如果 nums[i] + nums[j] = target，则返回下标 i 和 j，且 i 不能等于 j。
+如果 nums[i] + nums[j] = target 且 i 不等于 j，则返回下标 i 和 j。
